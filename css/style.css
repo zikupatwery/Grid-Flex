@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.box{
+    height: 100px;
+    background-color: red;
+}
+.box h2{
+    text-align: center;
+}
